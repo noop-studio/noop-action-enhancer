@@ -1,0 +1,7 @@
+{
+    "name": "redux-action-enhancer",
+    "version": "1.0.0",
+    "repository": "https://github.com/noop-studio/redux-action-enhancer",
+    "description": "Allows action creators to perform asynchronous operations before dispatching an action.",
+    "main": "index.js"
+}
